@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjunath Sathyanarayana
-- 👀 I’m a java developer by profession, and exploring a lot of other curious topics
-- 🌱 I’m curious on a number of topics, and believe learning is a journey
+- 👀 I’m a Java developer by profession, and exploring a lot of other topics
+- 🌱 I’m curious on a number of topics, and believe learning is a journey, not a destination
 - 💞️ I’m looking to expand my knowledge in areas like full stack development, microservices, data engineering, etc
 - 📫 I'm reachable at manjunath.sathyanarayana@gmail.com, +919880362658
 
